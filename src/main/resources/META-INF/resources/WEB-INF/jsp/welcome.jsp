@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Love You from Jsp Page </h1>
-    <h2>The name is ${username} and age is ${userage}</h2>
+    <h1>Welcome to in 28 min </h1>
+    <div>Your name is ${name} and password is ${pass}
 </body>
 </html>
